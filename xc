@@ -1,1 +1,1 @@
-https://savana.tekna.sbs/api/
+https://wolf.tekna.sbs/api/
