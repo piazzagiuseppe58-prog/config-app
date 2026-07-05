@@ -1,1 +1,1 @@
-https://xc.tekna.sbs/api
+https://xc.tekna.sbs/api/
