@@ -1,1 +1,1 @@
-https://xc.app.radiomaria.homes/api/
+http://xc.app.radiomaria.homes/api/
