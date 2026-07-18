@@ -1,1 +1,1 @@
-https://appsts-app.radiomaria.homes/api/
+https://appsts-app.radiomaria.homexxs/api/
