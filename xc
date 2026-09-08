@@ -1,1 +1,1 @@
-https://appsts-app.radiomaria.homes/api/
+https://xc.tekna.sbs/api/
